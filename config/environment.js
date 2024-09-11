@@ -2,7 +2,7 @@
 
 module.exports = function (environment) {
   const ENV = {
-    modulePrefix: 'ember-gooddata',
+    modulePrefix: 'gooddata-ember',
     environment,
     rootURL: '/',
     locationType: 'history',

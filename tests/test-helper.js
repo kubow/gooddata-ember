@@ -1,5 +1,5 @@
-import Application from 'ember-gooddata/app';
-import config from 'ember-gooddata/config/environment';
+import Application from 'gooddata-ember/app';
+import config from 'gooddata-ember/config/environment';
 import * as QUnit from 'qunit';
 import { setApplication } from '@ember/test-helpers';
 import { setup } from 'qunit-dom';
